@@ -1,0 +1,10 @@
+﻿fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+chromadb
+pypdf
+python-multipart
+pydantic-settings
